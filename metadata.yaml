@@ -1,0 +1,25 @@
+_repo: How-to-Become-Rich--13-A-Treatise-on-Phrenology-Choice-of-Professions-and-Matrimony_21646
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Windsor, William
+    birthdate: 1857
+    gutenberg_agent_id: '24830'
+    url: http://www.gutenberg.org/2009/agents/24830
+description: ''
+gutenberg_issued: '2007-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21646'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'Phrenology'
+title: 'How to Become Rich: A Treatise on Phrenology, Choice of Professions and Matrimony'
+url: http://www.gutenberg.org/ebooks/21646
